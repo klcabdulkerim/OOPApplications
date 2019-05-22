@@ -1,4 +1,4 @@
 # Paint Project
 
 
-Abdulkerim Kılıç ve Mehmet Ata Tütünekici yazdı.
+Abdulkerim Kilic and Mehmet Ata TÃ¼tÃ¼nekici.
