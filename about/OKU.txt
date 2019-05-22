@@ -1,0 +1,22 @@
+Nesne Tabanli Programlama -PROJE Bilgilendirme
+================
+Yazanlar : Mehmet Ata Tutunekici 150713049
+          Abdulkerim Kilic      150713017
+================
+Java Cizim Uygulamasi
+================
+Bu java uygulamasý kullanýcýnýn belirli bir ekranda cizim yapmasýný saglýyor. Kullanýcý düz çizgi  , dörtgen ve daire gibi farklý çizim þekilleri seçebilir . 
+
+================
+Kullanýcý  , file menusunun altýnda save menusu ile çizimini kaydedebilir .Eger ayný isimde bir kayýt var ise  , program kullanýcýdan  farklý bir isim girmesini isteyecektir .
+ 
+================
+Resmi kaydettikten sonra  , ayný resmi kaydedilen yerden tekrar açabiliriz .
+================
+File menusunun altýnda "Save  ,SaveAs , Open ,Close , New ve Exit" komutlarý mevcuttur.
+================
+Kullanýcý çizdiði resmi ekrandan temizleyip temiz bir pencere açabilir.
+================
+Arka plan rengini de istediðimiz bir renkte ayarlayabiliriz .
+
+================
